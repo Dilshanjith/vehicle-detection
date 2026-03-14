@@ -39,7 +39,5 @@ EPOCHS = 15                 # Number of epochs for training
 # Define class labels — update based on your dataset’s folder names
 CLASS_NAMES = ['non-vehical','vehical']
 
-# ------------------------------------------------------------
-# 🧾 Miscellaneous Settings
- 
+
 SEED = 123
