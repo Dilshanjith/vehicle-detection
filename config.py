@@ -1,6 +1,4 @@
-# ============================================================
-# config.py — Configuration file for Vehicle Detection Project
-# ============================================================
+
 
 import os
 import kagglehub
