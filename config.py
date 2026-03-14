@@ -21,9 +21,7 @@ DATA_DIR = './data'
 TRAINING_DIR = os.path.join(DATA_DIR, 'non-vehicles')   # Change based on your dataset structure
 TEST_DIR = os.path.join(DATA_DIR, 'vehicles')           # Change based on your dataset structure
 
-# ------------------------------------------------------------
-# ⚙️ Model Configuration
-# ------------------------------------------------------------
+
 MODEL_SAVE_PATH = 'vehicle_cnn_model.h5'   # File name for saving the trained model
 MODEL_PATH = 'vehicle_cnn_model.h5'
 
