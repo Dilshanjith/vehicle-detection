@@ -15,7 +15,7 @@ DATASET_PATH = kagglehub.dataset_download("brsdincer/vehicle-detection-image-set
 # You can also specify a custom dataset folder (optional)
 DATA_DIR = DATASET_PATH   # Use the path KaggleHub returns
 
-# If you’ve extracted or organized folders manually:
+
 DATA_DIR = './data'
 
 TRAINING_DIR = os.path.join(DATA_DIR, 'non-vehicles')   # Change based on your dataset structure
