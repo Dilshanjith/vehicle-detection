@@ -33,10 +33,7 @@ BATCH_SIZE = 32             # Number of samples per batch
 EPOCHS = 15                 # Number of epochs for training
 
 
-# ------------------------------------------------------------
-# 🧠 Class Mapping
-# ------------------------------------------------------------
-# Define class labels — update based on your dataset’s folder names
+
 CLASS_NAMES = ['non-vehical','vehical']
 
 
