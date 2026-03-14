@@ -41,6 +41,5 @@ CLASS_NAMES = ['non-vehical','vehical']
 
 # ------------------------------------------------------------
 # 🧾 Miscellaneous Settings
-# ------------------------------------------------------------
-# Random seed for reproducibility
+ 
 SEED = 123
