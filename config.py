@@ -40,7 +40,5 @@ EPOCHS = 15                 # Number of epochs for training
 CLASS_NAMES = ['non-vehical','vehical']
 
 
-# ------------------------------------------------------------
-# 🧾 Miscellaneous Settings
- 
+
 SEED = 123
