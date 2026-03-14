@@ -5,9 +5,7 @@
 import os
 import kagglehub
 
-# ------------------------------------------------------------
-# 🧩 Dataset Configuration
-# ------------------------------------------------------------
+
 
 
 DATASET_PATH = kagglehub.dataset_download("brsdincer/vehicle-detection-image-set")
